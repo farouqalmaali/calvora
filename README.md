@@ -286,9 +286,9 @@ Planned, not started:
 
 ## Author
 
-**Eng. Farouq Al-Maali**
+** Farouq Al-Maali**
 
-- GitHub: [@EngFarouqAlmaali](https://github.com/EngFarouqAlmaali)
+- GitHub: [@EngFarouqAlmaali](https://github.com/FarouqAlmaali)
 
 ---
 
@@ -296,7 +296,7 @@ Planned, not started:
 
 Proprietary. All rights reserved.
 
-© Eng. Farouq Al-Maali
+© Farouq Al-Maali
 
 ---
 
