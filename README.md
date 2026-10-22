@@ -288,19 +288,22 @@ Planned, not started:
 
 ** Farouq Al-Maali**
 
-- GitHub: [@EngFarouqAlmaali](https://github.com/FarouqAlmaali)
+- GitHub: [@FarouqAlmaali](https://github.com/FarouqAlmaali)
 
 ---
+
 
 ## License
 
-Proprietary. All rights reserved.
+CALVORA is proprietary software owned by Eng. Farouq Al-Maali.
 
-© Farouq Al-Maali
+Personal, non-commercial use and private personal modifications
+are permitted only under the terms of the `LICENSE` file.
 
----
+Commercial use, redistribution, and publication of modified
+versions require prior written permission from the copyright holder.
 
-<p align="center">
-  <strong>CALVORA</strong><br>
-  Calculation as a workflow, not a row of buttons.
-</p>
+Copyright (c) 2026 Eng. Farouq Al-Maali. All rights reserved.
+
+**Notice:** The accompanying license is a draft and requires
+legal review before final adoption.
